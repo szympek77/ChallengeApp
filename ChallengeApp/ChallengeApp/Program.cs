@@ -15,7 +15,7 @@ if (women == true)
     }
 }
 
-if (!women && age < 18)
+else if (!women && age < 18)
 {
     Console.WriteLine("Niepełnoletni mężczyzna");
 }
