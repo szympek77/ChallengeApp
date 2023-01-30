@@ -1,6 +1,4 @@
-﻿
-
-var name = "Szymon";
+﻿var name = "Szymon";
 bool women = false;
 var age = 15;
 
